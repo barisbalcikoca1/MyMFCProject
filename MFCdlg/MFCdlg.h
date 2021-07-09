@@ -1,0 +1,32 @@
+
+// MFCdlg.h : main header file for the PROJECT_NAME application
+//
+
+#pragma once
+
+#ifndef __AFXWIN_H__
+	#error "include 'pch.h' before including this file for PCH"
+#endif
+
+#include "resource.h"		// main symbols
+
+
+// CMFCdlgApp:
+// See MFCdlg.cpp for the implementation of this class
+//
+
+class CMFCdlgApp : public CWinApp
+{
+public:
+	CMFCdlgApp();
+
+// Overrides
+public:
+	virtual BOOL InitInstance();
+
+// Implementation
+
+	DECLARE_MESSAGE_MAP()
+};
+
+extern CMFCdlgApp theApp;
