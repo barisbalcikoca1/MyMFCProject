@@ -1,0 +1,22 @@
+1.Static Text oluşturulacak.
+2.Static Text araçları belirlenen değerlere göre ekrana mesaj yazdıracak.
+3.Session Type: Training veya Maintenance değerlerini alacak.
+4.Motion Type: Motion On veya Motion Off değerlerini alacak.
+5.Subject Type: Manned veya Unmanned değerlerini alacak.
+6.Operation Mode: SD Profile, Direct Flight veya Maintenance değerlerini alacak.
+7.System Status:OK, Warning veya Failure değerlerini alacak.
+8.System Status, Ok ise arka plan rengi yeşil olacak.
+9.System Status, Warning ise arka plan rengi turuncu olacak.
+10.System Status, Failure ise arka plan rengi kırmızı olacak.
+11.Traning Time oluşturulacak 
+12.Traning Time program başlangıcından itibaren geçen süreyi belirlenen formatta gösterecek.
+13.Current date and time oluşturulacak.
+14.Button oluşturulacak.
+15.Button her tıklanmada arka planda bir bool ifadenin değerini true ise false, false ise true yapacak.
+16.Oluşturulan Static Text ve Button, sütun görünümünde olacak.
+17.C++ dili ile yazılacak.
+18.MFC uygulaması kullanılacak.
+19.Visual Studio 2019 Kullanılacak.
+
+
+
