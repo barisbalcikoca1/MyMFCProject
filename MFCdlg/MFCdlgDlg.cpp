@@ -240,7 +240,7 @@ void CMFCdlgDlg::StartDebug()//The code of the function to be executed from the 
 	else if(ok == 3)
 		m_Ok.Format(_T("FAİLURE"));
 
-	SetBackgroundColor(RGB(255, 255, 255));//Written to make the background color white with RGB color codes.
+	SetBackgroundColor(RGB(100, 55, 55));//Written to make the background color white with RGB color codes.
 	GetDlgItemText(IDC_DATETIMEPICKER1, m_strValue);//When the program starts, DateTimePicker inserts the date from the static text part we defined as m_strValue.
 
 }
